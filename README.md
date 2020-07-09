@@ -6,7 +6,7 @@
 
 #### Spark-Beta provides you with blazing fast, reliable and accurate sport event updates with live Score and Schedules for Sport events like Cricket, Football, Kabaddi, Badminton and many more. 
 
-![Example Image](https://github.com/cvkoo7/Style-transfer/images/practice.png)
+![](images/practice.png)
 
 ## Features
 - Tranfer pattern of one image to another.
