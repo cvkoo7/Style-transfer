@@ -4,12 +4,12 @@
 ![GitHub](https://img.shields.io/github/license/cvkoo7/Style-transfer)
 ![GitHub top language](https://img.shields.io/github/languages/top/cvkoo7/Style-transfer)
 
-#### Spark-Beta provides you with blazing fast, reliable and accurate sport event updates with live Score and Schedules for Sport events like Cricket, Football, Kabaddi, Badminton and many more. 
+#### Use of Transfer learning of VGG19 architecture from ImageNet dataset for Style transfer.
 
 ![](images/practice.png)
 
 ## Features
-- Tranfer pattern of one image to another.
+- Transfer pattern of one image to another.
 - Easy to train and Use
 
 ## SUPPORT THE WORK
